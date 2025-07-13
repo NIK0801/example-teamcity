@@ -6,7 +6,9 @@
 <img width="974" height="411" alt="image" src="https://github.com/user-attachments/assets/82640f24-2484-48d8-9aff-e840d4d1d05d" />  
 артефакт  
 <img width="974" height="344" alt="image" src="https://github.com/user-attachments/assets/1ca94e2c-1680-4fa2-b578-5be305310329" />  
-артефакты новой версии после деплоя
-<img width="974" height="582" alt="image" src="https://github.com/user-attachments/assets/80476537-ea13-4b2a-a49a-7e5664001226" />
+мерж мастера и новой ветки  
+<img width="634" height="550" alt="image" src="https://github.com/user-attachments/assets/a7f7344a-5feb-4ec8-a5a9-1b24d0c11d1e" />  
+артефакты новой версии после деплоя  
+<img width="974" height="582" alt="image" src="https://github.com/user-attachments/assets/80476537-ea13-4b2a-a49a-7e5664001226" />  
 
 
